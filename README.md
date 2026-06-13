@@ -56,8 +56,8 @@ An ambitious backend and full-stack software engineer with a strong academic tra
 ---
 
 ## Let's Connect!
-- LinkedIn: [://linkedin.com](https://linkedin.com)
-- LeetCode: [://leetcode.com](https://://leetcode.com)
+- LinkedIn: www.linkedin.com/in/sarthak-kotawar-7141802b4
+- LeetCode: https://leetcode.com/u/SarthakKotawar_23/
 - Email: sarthakkotawar2303@gmail.com
 
 *"Driven to turn complex logic into scalable, real-world backend applications."*

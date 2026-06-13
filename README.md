@@ -1,35 +1,38 @@
 # Sarthak Kotawar
 
-## About Me
-I am a final-year Computer Science & Engineering student at WIT Solapur, maintaining an academic track record of 9.59 / 10.00 CGPA. 
-
-As an aspiring Software Development Engineer (SDE), my core focus lies in backend engineering, database optimization, and object-oriented software design. I specialize in Java, Data Structures & Algorithms (DSA), and Full-Stack MERN development.
+### Final Year Computer Science & Engineering Student | Full-Stack & Algorithmic Engineer
+An ambitious backend and full-stack software engineer with a strong academic track record (9.59 CGPA) from WIT Solapur. I focus on writing clean, optimized code, designing robust databases, and solving complex algorithmic challenges.
 
 ---
 
-## Current Objectives and Technical Focus
-- **Algorithmic Problem Solving:** Solved 280+ problems on LeetCode using Java, concentrating on advanced data structures, graph traversals, and dynamic programming optimization frameworks.
-- **System Architecture Optimization:** Enhancing a full-stack real-time communication engine (Connecta) by optimizing high-concurrency WebSocket channels via Socket.io and implementing secure, stateless JWT authentication.
-- **Database Modeling:** Refactoring a RESTful content platform (Blogify) to enforce strict backend request validations and MongoDB schema-level normalization rules.
+## Placement-Ready Metrics
+- Academic Excellence: Current CGPA: 9.59/10 (WIT Solapur)
+- Problem Solving: Solved 280+ Algorithmic Problems on LeetCode using Java
+- Core Competencies: Full-Stack MERN Development & Relational Database Engineering
 
 ---
 
-## Technical Stack and Competencies
+## Technical Tech Stack
 
-- **Programming Languages:** Java (Core, Advanced), JavaScript (ES6+), SQL
-- **Frontend Technologies:** React.js, HTML5, CSS3, Bootstrap
-- **Backend Infrastructure:** Node.js, Express.js, RESTful Web APIs, Socket.io (WebSockets)
-- **Database Systems:** MongoDB (NoSQL), MySQL (Relational)
-- **Developer Tools & Workflow:** Git, GitHub, Postman API Automation
+| Category | Technologies & Core Competencies |
+| :--- | :--- |
+| **Languages** | Java (Core, Advanced), JavaScript (ES6+) |
+| **Frontend Frameworks** | React.js, HTML5, CSS3, Bootstrap |
+| **Backend Engineering** | Node.js, Express.js, RESTful Web APIs |
+| **Real-Time Tooling** | Socket.io (WebSockets) |
+| **Databases & RDBMS** | MongoDB (NoSQL), MySQL (Relational SQL) |
+| **Version Control & Tools** | Git, GitHub, Postman API Testing |
+| **Core CS Fundamentals** | Data Structures & Algorithms (DSA), OOPs, DBMS, OS |
+
 
 ---
 
-## Professional Projects
+## Featured Pinned Projects
 
 ### Connecta – Real-Time Chat Engine
 - Stack: React.js | Node.js | Express.js | MongoDB | Socket.io | JWT
 - Engineered an event-driven messaging system supporting secure stateless user sessions via JSON Web Tokens.
-- Utilized high-concurrency WebSockets to handle real-time user status changes and sub-millisecond private message deliveries.
+- Utilised high-concurrency WebSockets to handle real-time user status changes and sub-millisecond private message deliveries.
 
 ### Blogify – RESTful Content Platform
 - Stack: Node.js | Express.js | MongoDB | Bootstrap
@@ -38,11 +41,23 @@ As an aspiring Software Development Engineer (SDE), my core focus lies in backen
 
 ### Data-Structures-Algorithms-Java
 - Stack: Java
-- Centralized repository tracking analytical problem-solving across core algorithms including Arrays, Matrices, Strings, and Trees.
+- Centralised repository tracking my analytical growth on LeetCode (280+ solutions committed).
+- Focuses on optimization patterns across Arrays, Matrices, Strings, Trees, and Object-Oriented Principles.
 
 ---
 
-## Contact and Professional Networks
-- **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- **LeetCode:** [://leetcode.com](https://://leetcode.com)
-- **Email:** sarthakkotawar2303@gmail.com
+## GitHub and Coding Activity
+
+*   **Current Metrics:** Maintaining a consistent daily development cycle across backend and full-stack repositories.
+*   **Algorithmic Tracking:** Automating all successful LeetCode problem submissions directly to a dedicated GitHub repository to track time and space complexity optimizations.
+*   **Version Control Workflow:** Practicing industry-standard Git operations, including structured commit messages, branching strategies, and codebase maintenance.
+
+
+---
+
+## Let's Connect!
+- LinkedIn: [://linkedin.com](https://linkedin.com)
+- LeetCode: [://leetcode.com](https://://leetcode.com)
+- Email: sarthakkotawar2303@gmail.com
+
+*"Driven to turn complex logic into scalable, real-world backend applications."*

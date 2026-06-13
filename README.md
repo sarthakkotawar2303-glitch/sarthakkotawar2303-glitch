@@ -1,4 +1,4 @@
-# Hi there, I'm Sarthak Kotawar 👋
+# Hi there, I'm Sarthak Kotawar 
 
 ### Final Year Computer Science & Engineering Student | Full-Stack & Algorithmic Engineer
 An ambitious backend and full-stack software engineer with a strong academic track record (**9.59 CGPA**) from WIT Solapur. I focus on writing clean, optimized code, designing robust databases, and solving complex algorithmic challenges.
